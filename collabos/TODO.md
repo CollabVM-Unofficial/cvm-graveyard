@@ -1,0 +1,9 @@
+ - [x] Print text to screen
+ - [x] Make it 32-bit and not dumb 16-bit stuff
+ - [ ] use C and not just ASM
+ - [ ] Add a command interpreter
+ - [ ] Add filesystem support
+ - [ ] Add seperate sandboxed users
+ - [ ] Make collab vm bot built-in to automatically switch users based on username
+ - [ ] Create PRO edition
+ - [ ] Profit
